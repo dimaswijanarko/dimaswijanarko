@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 🔭 I’m currently working on [@qoala-engineering](https://github.com/qoala-engineeringr) as Frontend Engineer.   
 🌱 I’m currently learning `Vue` & `TypeScript`.    
 
-## 📫 How to reach me:
-* [Twitter](https://twitter.com/DimasAWijanarko)
-
 ⚡ Fun fact: these are the languages on my public repo. 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaswijanarko&show_icons=true&layout=compact)](https://github.com/dimaswijanarko)
+
+## 📫 How to reach me:
+* [Twitter](https://twitter.com/DimasAWijanarko)
