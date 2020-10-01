@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [@qoala-engineering](https://github.com/qoala-engineeringr) as Frontend Engineer.   
+🔭 I’m currently working on [@qoala-engineering](https://github.com/qoala-engineering) as Frontend Engineer.   
 🌱 I’m currently learning `Vue` & `TypeScript`.    
 ⚡ Fun fact: these are the languages on my public repo. 😄
 
